@@ -1,3 +1,6 @@
 ex1/input_files/*
 ex1/output_files_task1/*
 ex1/output_files_task2/*
+*.zip
+ex2/input_files/*
+ex2/output_files/*
