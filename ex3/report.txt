@@ -1,0 +1,15 @@
+filename: input_files/Cosmos_War_of_the_Planets.mp4 - frame_rate is 29.97002997002997 but expected value is 25, aspect_ratio is 314:177 but expected value is 16:9, resolution_width is 628 but expected value is 640, resolution_height is 354 but expected value is 360, max audio bitrate is 317.103 but expected value is 256
+
+
+filename: input_files/Last_man_on_earth_1964.mov - container is qt   but expected value is mp42, video_codec is prores but expected value is h264, audio_codec is pcm_s16le but expected value is aac, frame_rate is 23.976023976023978 but expected value is 25, max video bitrate is 9.285191 but expected value is 5
+
+
+filename: input_files/The_Gun_and_the_Pulpit.avi - container is avi but expected value is mp42, video_codec is rawvideo but expected value is h264, audio_codec is pcm_s16le but expected value is aac, aspect_ratio is 180:101 but expected value is 16:9, resolution_width is 720 but expected value is 640, resolution_height is 404 but expected value is 360, max video bitrate is 87.438878 but expected value is 5
+
+
+filename: input_files/The_Hill_Gang_Rides_Again.mp4 - max video bitrate is 7.53773 but expected value is 5
+
+
+filename: input_files/Voyage_to_the_Planet_of_Prehistoric_Women.mp4 - video_codec is hevc but expected value is h264, audio_codec is mp3 but expected value is aac, frame_rate is 29.97002997002997 but expected value is 25, max video bitrate is 8.038857 but expected value is 5, max audio bitrate is 320.0 but expected value is 256
+
+
